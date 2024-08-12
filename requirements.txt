@@ -2,7 +2,7 @@ datetime
 pandas
 streamlit
 plotly
-PIL
+Pillow
 numpy
 scipy
 statsmodels
