@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import streamlit_shadcn_ui as ui
-from PIL import Image
+from Pillow import Image
 from interpretations import metric_info, var_info, optimization_strategies_info, appinfo
 from portfolio_optimizer import PortfolioOptimizer
 from metrics import MetricsCalculator
