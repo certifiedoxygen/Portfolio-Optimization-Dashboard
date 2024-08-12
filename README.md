@@ -3,7 +3,7 @@
 
 This project is a Stock Portfolio Optimization Calculator that leverages multiple optimization techniques to enhance portfolio performance. It features interactive graphical visualizations of the efficient frontier and key portfolio metrics. The application is web-hosted, utilizing Streamlit for an intuitive and user-friendly interface.
 
-The project can be found here: ![Link to Project]("https://portfolio-optimization.streamlit.app/")
+The project can be found here: [Link to Project]("https://portfolio-optimization.streamlit.app/")
 
 
 ## Optimization Strategies
