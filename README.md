@@ -55,6 +55,15 @@ The Efficient Frontier is visualized as a curve representing the optimal set of 
 4. Click the "Calculate" button to generate your optimized portfolio.
 5. Explore the various tabs to view performance metrics, visualizations, and risk analysis for your portfolio.
 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashkhaitan/)
+
 
 
 
