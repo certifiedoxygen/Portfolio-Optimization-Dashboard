@@ -1,0 +1,12 @@
+datetime
+pandas
+streamlit
+plotly.express
+streamlit_shadcn
+random
+PIL
+numpy
+scipy.stats
+statsmodels.api
+matplotlib.pyplot
+yfinance
