@@ -44,8 +44,7 @@ The project can be found here: [Link to Project]("https://portfolio-optimization
 
 ## Efficient frontier
 The Efficient Frontier is visualized as a curve representing the optimal set of investment portfolios that offer the highest expected return for a given level of risk, created using 10,000 simulations of portfolios with varying asset weights. Each point along the frontier illustrates the trade-off between risk (volatility) and return, enabling users to identify the most efficient portfolios. Portfolios lying on this curve are considered optimal, while those below the frontier indicate suboptimal returns for their associated risk levels, allowing investors to make informed decisions based on their individual risk tolerance and investment goals.
-![Efficient Frontier](example.png){: width="400"}
-
+![Efficient Frontier](example.png)
 
 ## Usage
 
