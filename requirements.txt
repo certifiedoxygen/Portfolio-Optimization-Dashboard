@@ -1,12 +1,12 @@
 datetime
 pandas
 streamlit
-plotly.express
+plotly
 streamlit_shadcn
 random
 PIL
 numpy
-scipy.stats
-statsmodels.api
-matplotlib.pyplot
+scipy
+statsmodels
+matplotlib
 yfinance
