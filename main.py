@@ -130,7 +130,7 @@ def main():
                 )
 
         except ValueError as e:
-            st.error("Unable to download data for one or more tickers!")
+            st.error(str(e))
             return
         except Exception as e:
             st.error(str(e))
