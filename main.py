@@ -4,7 +4,6 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import streamlit_shadcn_ui as ui
-import random
 from PIL import Image
 from interpretations import metric_info, var_info, optimization_strategies_info, appinfo
 from portfolio_optimizer import PortfolioOptimizer
@@ -82,16 +81,9 @@ def main():
 
     st.session_state.stocks_list = [s.strip() for s in stocks.split(",")]
 
-    messages = [
-        "Buckle Up! Financial Wizardry in Progress....",
-        "Mixing the Perfect Investment Cocktail....",
-        "Gearing Up for Financial Sorcery....",
-        "Concocting Your Financial Elixir....",
-    ]
-
     if calc:
         try:
-            with st.spinner(random.choice(messages)):
+            with st.spinner("Buckle Up! Financial Wizardry in Progress...."):
                 stocks_list = st.session_state.stocks_list
                 optimizer = PortfolioOptimizer(
                     stocks_list,
