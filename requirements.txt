@@ -2,7 +2,6 @@ datetime
 pandas
 streamlit
 plotly
-streamlit_shadcn
 random
 PIL
 numpy
